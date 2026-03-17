@@ -90,7 +90,7 @@
   let outputByteCount = $derived(output ? new Blob([output]).size : 0);
 </script>
 
-<TrustBar sourceUrl="https://github.com/yourusername/base64-codec" />
+<TrustBar sourceUrl="https://github.com/Griffin2/localbase64" />
 
 <div class="page-shell">
   <ToolHeader
